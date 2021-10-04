@@ -13,4 +13,4 @@ Execution
 Run the program and switch over to chrome and open chrome://dino
 Keep your hand within the rectangle as you start. Move your hand to make dino jump.
 
- # Close the camera/app if 'e' is pressed
+ # To close the camera/app if 'e' is pressed
